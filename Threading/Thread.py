@@ -2,6 +2,7 @@ import pandas as pd
 import math
 from multiprocessing import Pool
 
+# is this line necessary?
 files = list(range(0,10))
 
 def add_dean(x):
